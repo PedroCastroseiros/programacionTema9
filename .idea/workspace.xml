@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d0a63e-e4e7-4179-88a5-734294364b4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Agenda/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Agenda/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Alumnos/Alumnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/AlumnosClase/enunciado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/ArrayList/Ej1_Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/BuscarNombres/BuscarNombres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Conjuntos/Conjuntos1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Conjuntos/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Ej07_SeriesVideojuegos/Entregable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Ej07_SeriesVideojuegos/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Ej07_SeriesVideojuegos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Ej07_SeriesVideojuegos/Videojuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Ej3_Sintesis_Char/Ej3_Sintesis_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Pedido/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Pedido/LineaPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Pedido/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Pedido/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Pedido/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/Provincias/Ej1_Provincias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tema9/ejExamen/principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MBwvqlLSgcxIgVYEwAS4akRQBE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d0a63e-e4e7-4179-88a5-734294364b4e" name="Changes" comment="" />
+      <created>1677254517535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677254517535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
